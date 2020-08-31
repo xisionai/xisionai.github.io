@@ -1,4 +1,4 @@
 
-Styler -> https://play.google.com/store/apps/details?id=com.xisionai.styler
+[Styler App Play Store Link](https://play.google.com/store/apps/details?id=com.xisionai.styler)
 
-Renklendir -> https://play.google.com/store/apps/details?id=com.xisionai.renklendir
+[Renklendir App Play Store Link](https://play.google.com/store/apps/details?id=com.xisionai.renklendir)
